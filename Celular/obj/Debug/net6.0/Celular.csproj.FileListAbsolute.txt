@@ -1,0 +1,15 @@
+D:\c# codigo\Celular\bin\Debug\net6.0\Celular.exe
+D:\c# codigo\Celular\bin\Debug\net6.0\Celular.deps.json
+D:\c# codigo\Celular\bin\Debug\net6.0\Celular.runtimeconfig.json
+D:\c# codigo\Celular\bin\Debug\net6.0\Celular.dll
+D:\c# codigo\Celular\bin\Debug\net6.0\Celular.pdb
+D:\c# codigo\Celular\obj\Debug\net6.0\Celular.csproj.AssemblyReference.cache
+D:\c# codigo\Celular\obj\Debug\net6.0\Celular.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigo\Celular\obj\Debug\net6.0\Celular.AssemblyInfoInputs.cache
+D:\c# codigo\Celular\obj\Debug\net6.0\Celular.AssemblyInfo.cs
+D:\c# codigo\Celular\obj\Debug\net6.0\Celular.csproj.CoreCompileInputs.cache
+D:\c# codigo\Celular\obj\Debug\net6.0\Celular.dll
+D:\c# codigo\Celular\obj\Debug\net6.0\refint\Celular.dll
+D:\c# codigo\Celular\obj\Debug\net6.0\Celular.pdb
+D:\c# codigo\Celular\obj\Debug\net6.0\Celular.genruntimeconfig.cache
+D:\c# codigo\Celular\obj\Debug\net6.0\ref\Celular.dll

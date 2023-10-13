@@ -1,0 +1,15 @@
+D:\C# CODIGO\CelularFuncion\bin\Debug\net6.0\CelularFuncion.exe
+D:\C# CODIGO\CelularFuncion\bin\Debug\net6.0\CelularFuncion.deps.json
+D:\C# CODIGO\CelularFuncion\bin\Debug\net6.0\CelularFuncion.runtimeconfig.json
+D:\C# CODIGO\CelularFuncion\bin\Debug\net6.0\CelularFuncion.dll
+D:\C# CODIGO\CelularFuncion\bin\Debug\net6.0\CelularFuncion.pdb
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\CelularFuncion.csproj.AssemblyReference.cache
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\CelularFuncion.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\CelularFuncion.AssemblyInfoInputs.cache
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\CelularFuncion.AssemblyInfo.cs
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\CelularFuncion.csproj.CoreCompileInputs.cache
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\CelularFuncion.dll
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\refint\CelularFuncion.dll
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\CelularFuncion.pdb
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\CelularFuncion.genruntimeconfig.cache
+D:\C# CODIGO\CelularFuncion\obj\Debug\net6.0\ref\CelularFuncion.dll

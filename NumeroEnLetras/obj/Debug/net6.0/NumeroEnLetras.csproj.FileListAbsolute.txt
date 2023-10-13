@@ -1,0 +1,15 @@
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\NumeroEnLetras.csproj.AssemblyReference.cache
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\NumeroEnLetras.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\NumeroEnLetras.AssemblyInfoInputs.cache
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\NumeroEnLetras.AssemblyInfo.cs
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\NumeroEnLetras.csproj.CoreCompileInputs.cache
+D:\c# codigo\NumeroEnLetras\bin\Debug\net6.0\NumeroEnLetras.exe
+D:\c# codigo\NumeroEnLetras\bin\Debug\net6.0\NumeroEnLetras.deps.json
+D:\c# codigo\NumeroEnLetras\bin\Debug\net6.0\NumeroEnLetras.runtimeconfig.json
+D:\c# codigo\NumeroEnLetras\bin\Debug\net6.0\NumeroEnLetras.dll
+D:\c# codigo\NumeroEnLetras\bin\Debug\net6.0\NumeroEnLetras.pdb
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\NumeroEnLetras.dll
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\refint\NumeroEnLetras.dll
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\NumeroEnLetras.pdb
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\NumeroEnLetras.genruntimeconfig.cache
+D:\c# codigo\NumeroEnLetras\obj\Debug\net6.0\ref\NumeroEnLetras.dll

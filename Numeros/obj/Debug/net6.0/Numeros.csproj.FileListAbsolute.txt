@@ -1,0 +1,15 @@
+D:\c# codigo\Numeros\bin\Debug\net6.0\Numeros.exe
+D:\c# codigo\Numeros\bin\Debug\net6.0\Numeros.deps.json
+D:\c# codigo\Numeros\bin\Debug\net6.0\Numeros.runtimeconfig.json
+D:\c# codigo\Numeros\bin\Debug\net6.0\Numeros.dll
+D:\c# codigo\Numeros\bin\Debug\net6.0\Numeros.pdb
+D:\c# codigo\Numeros\obj\Debug\net6.0\Numeros.csproj.AssemblyReference.cache
+D:\c# codigo\Numeros\obj\Debug\net6.0\Numeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigo\Numeros\obj\Debug\net6.0\Numeros.AssemblyInfoInputs.cache
+D:\c# codigo\Numeros\obj\Debug\net6.0\Numeros.AssemblyInfo.cs
+D:\c# codigo\Numeros\obj\Debug\net6.0\Numeros.csproj.CoreCompileInputs.cache
+D:\c# codigo\Numeros\obj\Debug\net6.0\Numeros.dll
+D:\c# codigo\Numeros\obj\Debug\net6.0\refint\Numeros.dll
+D:\c# codigo\Numeros\obj\Debug\net6.0\Numeros.pdb
+D:\c# codigo\Numeros\obj\Debug\net6.0\Numeros.genruntimeconfig.cache
+D:\c# codigo\Numeros\obj\Debug\net6.0\ref\Numeros.dll
